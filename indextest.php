@@ -110,7 +110,7 @@ $apicaller = new RClubAPI($apihost, $authid,$apikey);
 
 
 //$apicaller->deleteTXTRecord() ;
-$apicaller->deleteSRVRecord() ;
+//$apicaller->deleteSRVRecord() ;
 
 
 ?>
